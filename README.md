@@ -1,10 +1,12 @@
 # Java
-java with oracal
-//ConnTest.java
-  
+java with oracle
+
+
+
+```  
   /**  *
   * @author VIK
-  * Create Connection with Oracal server
+  * Create Connection with Oracle server
   */
   
   
@@ -36,3 +38,4 @@ java with oracal
          con.close();
      }
  }
+```
