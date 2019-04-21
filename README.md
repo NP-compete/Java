@@ -4,6 +4,7 @@ java with oracal
   
   /**  *
   * @author VIK
+  * Create Connection with Oracal server
   */
  import java.sql.*;
  
