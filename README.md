@@ -1,7 +1,8 @@
 # Java
-java with oracal
-//ConnTest.java
-  
+java with oracle
+
+
+```
   /**  *
   * @author VIK
   * Create Connection with Oracal server
@@ -10,7 +11,7 @@ java with oracal
   
   
  import java.sql.*;
- 
+
  public class ConnTest {
  
      public static void main(String... args) throws Exception {
@@ -36,3 +37,4 @@ java with oracal
          con.close();
      }
  }
+```
